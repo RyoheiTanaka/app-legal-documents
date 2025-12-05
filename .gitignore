@@ -1,0 +1,9 @@
+# .gitignore (app-legal-documents)
+
+# macOS
+.DS_Store
+
+# IDE/Editor files (VS Code, etc.)
+.vscode/
+*.swp
+*.bak
